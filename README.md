@@ -6,11 +6,10 @@ For More Information Visit http://www.studiopieters.nl
 
 ## Note: Work In progress!
 
-- [ ] Debugging the Main Code
-- [ ] ..
-- [ ] ..
-- [ ] ..
-- [ ] ..
+- [X] Debugging the Main Code
+- [X] printing 3D files
+- [X] writing blog
+- [X] Hardware testing
 
 
 
